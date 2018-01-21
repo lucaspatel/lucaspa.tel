@@ -1,0 +1,18 @@
+{
+  "name": "Personal_Website",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "bulma": "^0.6.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "^2.6.9",
+    "gulp": "^3.9.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "node-sass": "^4.7.2",
+    "pug": "^2.0.0-rc.4",
+    "serve-favicon": "~2.4.2"
+  }
+}

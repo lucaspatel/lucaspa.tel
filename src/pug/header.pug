@@ -3,17 +3,20 @@ head
   meta(name='author', content='Lucas Patel')
   meta(name='viewport' content='width=device-width, initial-scale=1')
 
-  meta(charset='utf-8')
-  //some crazy info here https://github.com/JonKaric/head
+  script(async="" src="https://www.googletagmanager.com/gtag/js?id=UA-113328291-1")
+    script.
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-113328291-1'); 
+
+  //- some crazy info here https://github.com/JonKaric/head
 
   block title
     title Lucas Patel
 
   block styles
-    //point to sass in future
-    link(rel='stylesheet', href='/node_modules/bulma/css/bulma.css')
+    //- point to sass in future
     link(rel='stylesheet', href='css/main.css')
 
-  block scripts
-    //clear out, unless necessary
     

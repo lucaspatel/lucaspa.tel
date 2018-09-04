@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 150 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-633.338,-500.925)">
+        <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+            <g>
+                <path d="M156.014,152.3L169.829,152.3L169.829,120.433L156.014,152.3Z" style="fill:white;fill-rule:nonzero;"/>
+                <path d="M171.899,152.244L180.596,152.244L171.899,129.881L171.899,152.244Z" style="fill:white;fill-rule:nonzero;"/>
+                <path d="M171.158,153.357L171.158,120.575C171.158,120.38 171,120.222 170.806,120.222C170.612,120.222 170.455,120.38 170.455,120.575L170.455,153.357L161.792,153.357L161.807,156.963L180.641,156.963L180.641,153.357L171.158,153.357Z" style="fill:rgb(205,99,116);fill-rule:nonzero;"/>
+                <path d="M182.443,157.089L182.443,157.045L152.111,157.045L152.111,161.799L152.193,161.799L152.193,161.51L183.109,161.51C184.717,160.982 186.805,159.686 187.643,157.089L182.443,157.089Z" style="fill:rgb(230,180,182);fill-rule:nonzero;"/>
+                <g transform="matrix(0.240006,0,0,0.2401,151.679,161.129)">
+                    <clipPath id="_clip1">
+                        <path d="M129.221,18.546L1.342,18.546L1.342,1.316L1.687,1.316L1.687,2.362L1.8,2.362L1.8,2.791L2.142,2.791L2.142,2.362L132.03,2.362C138.8,4.282 147.604,8.98 151.146,18.384L129.221,18.384L129.221,18.546Z"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip1)">
+                        <clipPath id="_clip2">
+                            <rect x="1.342" y="1.316" width="149.804" height="17.23"/>
+                        </clipPath>
+                        <g clip-path="url(#_clip2)">
+                            <g transform="matrix(0.999973,-0,-0,0.999583,1.34166,-170.375)">
+                                <use xlink:href="#_Image3" x="0" y="179.36" width="149.808px" height="17.238px" transform="matrix(0.998722,0,0,0.957639,0,0)"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image3" width="150px" height="18px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAASCAYAAAC5ICcsAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA20lEQVRoge3YXQvBYBTA8XPkUyIiknvvm81mbN4+gMia+Jxzp4TGNin9f3UunzoX/56nHin1zFiAnGl5MCEsPLgsZ5rlvFaGNmHhpXPgpApMq+MpYSHRaTH9KDCtmS5h4W2RZ70VmNYsj7Dwkcg1E+PSuj0nLKQSOsbLwLTu+ISF1EJ79DQubbgBYSGTozV8iEub3pKwkNnBHNzFpa35irCQi73Rv8VVVM30wQo8pW1/w42F3OxGXRURKYjEwjB5TdtfxyI8hfgS7QTb+NdL4P9wY+ErCr9eAP/pClc8xtF7IKsMAAAAAElFTkSuQmCC"/>
+    </defs>
+</svg>

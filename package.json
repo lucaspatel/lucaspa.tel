@@ -1,22 +1,33 @@
 {
-  "name": "Personal_Website",
-  "version": "0.0.1",
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal Portfolio for Lucas Patel",
+  "author": "lucaspatel <lucaspatel@gmail.com>",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
+  },
   "dependencies": {
-    "browser-sync": "^2.18.13",
-    "bulma": "^0.6.0",
-    "cookie-parser": "~1.4.3",
-    "debug": "^2.6.9",
-    "gulp": "^3.9.1",
-    "gulp-gh-pages": "^0.5.4",
-    "gulp-pug": "^3.3.0",
-    "gulp-sass": "^3.1.0",
-    "node-sass": "^4.7.2",
-    "pug": "^2.0.0-rc.4",
-    "serve-favicon": "~2.4.2"
+    "bulma": "^0.7.1",
+    "font-awesome": "^4.7.0",
+    "nuxt": "^1.0.0"
   },
   "devDependencies": {
-    "del": "^3.0.0"
+    "babel-eslint": "^8.2.1",
+    "buefy": "^0.6.6",
+    "eslint": "^4.15.0",
+    "eslint-friendly-formatter": "^3.0.0",
+    "eslint-loader": "^1.7.1",
+    "eslint-plugin-vue": "^4.0.0",
+    "node-sass": "^4.9.0",
+    "nuxt-buefy": "^0.1.0",
+    "push-dir": "^0.4.1",
+    "sass-loader": "^7.0.3"
   }
 }

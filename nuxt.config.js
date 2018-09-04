@@ -26,7 +26,7 @@ module.exports = {
   ** Customize the progress bar color
   */
   loading: { color: '#CD6374' },
-  router: { base: '' },
+  router: { base: '/lucaspa.tel/' },
   /*
   ** Build configuration
   */
